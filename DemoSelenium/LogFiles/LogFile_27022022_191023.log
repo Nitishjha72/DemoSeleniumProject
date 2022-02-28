@@ -1,0 +1,535 @@
+2022-02-27 19:10:27,647  INFO [TestNG-tests-2] Log:20 - Before navigating to: 'http://demo.guru99.com/v4/'
+2022-02-27 19:10:27,790  INFO [TestNG-tests-1] Log:20 - Before navigating to: 'http://demo.guru99.com/v4/'
+2022-02-27 19:10:34,939  INFO [TestNG-tests-2] Log:20 - Navigated to:'http://demo.guru99.com/v4/'
+2022-02-27 19:10:34,976  INFO [TestNG-tests-2] Log:11 - =====================================testAddNewCustomerNavigationTest TEST START=========================================
+2022-02-27 19:10:34,977  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.name: uid
+2022-02-27 19:10:35,010  INFO [TestNG-tests-2] Log:20 - Found Element By : By.name: uid
+2022-02-27 19:10:35,042  INFO [TestNG-tests-1] Log:20 - Navigated to:'http://demo.guru99.com/v4/'
+2022-02-27 19:10:35,047  INFO [TestNG-tests-1] Log:11 - =====================================bankLogoTest TEST START=========================================
+2022-02-27 19:10:35,048  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //h2[@class='barone']
+2022-02-27 19:10:35,086  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //h2[@class='barone']
+2022-02-27 19:10:35,361  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.name: password
+2022-02-27 19:10:35,373  INFO [TestNG-tests-1] Log:15 - =====================================bankLogoTest TEST END=========================================
+2022-02-27 19:10:35,422  INFO [TestNG-tests-2] Log:20 - Found Element By : By.name: password
+2022-02-27 19:10:36,152  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.name: btnLogin
+2022-02-27 19:10:36,360  INFO [TestNG-tests-2] Log:20 - Found Element By : By.name: btnLogin
+2022-02-27 19:10:36,361  INFO [TestNG-tests-2] Log:20 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (1152be016402aa8d8cfc8a0f8ba88e01)] -> name: btnLogin]
+2022-02-27 19:10:38,152  INFO [TestNG-tests-1] Log:20 - Browser Terminated
+2022-02-27 19:10:38,153  INFO [TestNG-tests-1] Log:20 - -----------------------------------------------
+2022-02-27 19:10:40,742  INFO [TestNG-tests-1] Log:20 - Before navigating to: 'http://demo.guru99.com/v4/'
+2022-02-27 19:10:42,381  INFO [TestNG-tests-2] Log:20 - Clicked On: [[ChromeDriver: chrome on WINDOWS (1152be016402aa8d8cfc8a0f8ba88e01)] -> name: btnLogin]
+2022-02-27 19:10:42,382  INFO [TestNG-tests-2] Log:20 - Login to the application is successful
+2022-02-27 19:10:42,386  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.xpath: //a[text()='New Customer']
+2022-02-27 19:10:42,548  INFO [TestNG-tests-2] Log:20 - Found Element By : By.xpath: //a[text()='New Customer']
+2022-02-27 19:10:42,549  INFO [TestNG-tests-2] Log:20 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (1152be016402aa8d8cfc8a0f8ba88e01)] -> xpath: //a[text()='New Customer']]
+2022-02-27 19:10:43,560  INFO [TestNG-tests-2] Log:20 - Clicked On: [[ChromeDriver: chrome on WINDOWS (1152be016402aa8d8cfc8a0f8ba88e01)] -> xpath: //a[text()='New Customer']]
+2022-02-27 19:10:43,562  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.xpath: //p[@class="heading3" and contains(text(),'Add New Customer')]
+2022-02-27 19:10:56,440  INFO [TestNG-tests-2] Log:20 - Found Element By : By.xpath: //p[@class="heading3" and contains(text(),'Add New Customer')]
+2022-02-27 19:10:56,519  INFO [TestNG-tests-2] Log:15 - =====================================testAddNewCustomerNavigationTest TEST END=========================================
+2022-02-27 19:10:57,629  INFO [TestNG-tests-1] Log:20 - Navigated to:'http://demo.guru99.com/v4/'
+2022-02-27 19:10:57,632  INFO [TestNG-tests-1] Log:11 - =====================================loginPageTitleTest TEST START=========================================
+2022-02-27 19:10:57,661  INFO [TestNG-tests-1] Log:20 - Actual title found is: Guru99 Bank Home Page
+2022-02-27 19:10:57,662  INFO [TestNG-tests-1] Log:15 - =====================================loginPageTitleTest TEST END=========================================
+2022-02-27 19:10:58,428  INFO [TestNG-tests-2] Log:20 - Browser Terminated
+2022-02-27 19:10:58,429  INFO [TestNG-tests-2] Log:20 - -----------------------------------------------
+2022-02-27 19:10:58,563 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:58,567 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2022-02-27 19:10:58,570 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-02-27 19:10:58,573 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-02-27 19:10:58,573 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/spark.spa.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+2022-02-27 19:10:58,761 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:58,762 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2022-02-27 19:10:58,764 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-02-27 19:10:58,765 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-02-27 19:10:58,766 DEBUG [TestNG-tests-2] cache:45 - Loading template for "commons/commons-variables.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+2022-02-27 19:10:59,066 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,067 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2022-02-27 19:10:59,068 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-02-27 19:10:59,070 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-02-27 19:10:59,070 DEBUG [TestNG-tests-2] cache:45 - Loading template for "commons/commons-macros.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+2022-02-27 19:10:59,117 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,118 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2022-02-27 19:10:59,119 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-02-27 19:10:59,121 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-02-27 19:10:59,121 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/macros/attributes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+2022-02-27 19:10:59,126 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/macros/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,127 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2022-02-27 19:10:59,128 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-02-27 19:10:59,130 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-02-27 19:10:59,130 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/macros/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+2022-02-27 19:10:59,142 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,144 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2022-02-27 19:10:59,146 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-02-27 19:10:59,147 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-02-27 19:10:59,148 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+2022-02-27 19:10:59,220 DEBUG [TestNG-tests-2] cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:10:59,221 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,222 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2022-02-27 19:10:59,223 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2022-02-27 19:10:59,225 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2022-02-27 19:10:59,225 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+2022-02-27 19:10:59,244 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/partials/head.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,245 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2022-02-27 19:10:59,247 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-02-27 19:10:59,264 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-02-27 19:10:59,265 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/partials/head.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+2022-02-27 19:10:59,275 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,276 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2022-02-27 19:10:59,277 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-02-27 19:10:59,279 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-02-27 19:10:59,279 DEBUG [TestNG-tests-2] cache:45 - Loading template for "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+2022-02-27 19:10:59,284 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,285 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2022-02-27 19:10:59,287 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-02-27 19:10:59,288 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-02-27 19:10:59,289 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/partials/navbar.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+2022-02-27 19:10:59,312 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,317 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2022-02-27 19:10:59,318 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-02-27 19:10:59,328  INFO [TestNG-tests-1] Log:20 - Browser Terminated
+2022-02-27 19:10:59,329  INFO [TestNG-tests-1] Log:20 - -----------------------------------------------
+2022-02-27 19:10:59,329 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-02-27 19:10:59,330 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+2022-02-27 19:10:59,359 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/partials/test.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,373 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2022-02-27 19:10:59,375 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-02-27 19:10:59,377 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-02-27 19:10:59,378 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/partials/test.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+2022-02-27 19:10:59,430 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,431 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2022-02-27 19:10:59,433 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2022-02-27 19:10:59,435 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2022-02-27 19:10:59,435 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+2022-02-27 19:10:59,452 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:10:59,457 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:10:59,461 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,463 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2022-02-27 19:10:59,465 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2022-02-27 19:10:59,485 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2022-02-27 19:10:59,509 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/partials/exception.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+2022-02-27 19:10:59,520 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/partials/category.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,522 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2022-02-27 19:10:59,524 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2022-02-27 19:10:59,530 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2022-02-27 19:10:59,531 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/partials/category.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+2022-02-27 19:10:59,537 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/partials/device.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,546 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2022-02-27 19:10:59,547 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2022-02-27 19:10:59,550 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2022-02-27 19:10:59,551 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/partials/device.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+2022-02-27 19:10:59,557 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/partials/author.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,562 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2022-02-27 19:10:59,566 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2022-02-27 19:10:59,576 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2022-02-27 19:10:59,577 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/partials/author.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+2022-02-27 19:10:59,583 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/partials/log.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,584 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2022-02-27 19:10:59,585 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2022-02-27 19:10:59,590 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2022-02-27 19:10:59,634 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/partials/log.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+2022-02-27 19:10:59,636 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,638 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2022-02-27 19:10:59,639 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-02-27 19:10:59,640 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-02-27 19:10:59,640 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+2022-02-27 19:10:59,866 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,868 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2022-02-27 19:10:59,871 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-02-27 19:10:59,873 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-02-27 19:10:59,874 DEBUG [TestNG-tests-2] cache:45 - Loading template for "spark/partials/scripts.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+2022-02-27 19:10:59,919 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed); will try to load it.
+2022-02-27 19:10:59,943 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2022-02-27 19:10:59,944 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-02-27 19:10:59,946 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-02-27 19:10:59,947 DEBUG [TestNG-tests-2] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2022-02-27 19:11:02,294  INFO [TestNG-tests-2] Log:20 - Total rows including header in CreateCustomer sheet: 2
+2022-02-27 19:11:02,295  INFO [TestNG-tests-2] Log:20 - Total columns in CreateCustomer sheet: 9
+2022-02-27 19:11:03,210  INFO [TestNG-tests-1] Log:20 - Before navigating to: 'http://demo.guru99.com/v4/'
+2022-02-27 19:11:05,057  INFO [TestNG-tests-2] Log:20 - Before navigating to: 'http://demo.guru99.com/v4/'
+2022-02-27 19:11:09,600  INFO [TestNG-tests-1] Log:20 - Navigated to:'http://demo.guru99.com/v4/'
+2022-02-27 19:11:09,603  INFO [TestNG-tests-1] Log:11 - =====================================loginTest TEST START=========================================
+2022-02-27 19:11:09,604  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.name: uid
+2022-02-27 19:11:10,002  INFO [TestNG-tests-1] Log:20 - Found Element By : By.name: uid
+2022-02-27 19:11:10,171  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.name: password
+2022-02-27 19:11:10,278  INFO [TestNG-tests-1] Log:20 - Found Element By : By.name: password
+2022-02-27 19:11:10,541  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.name: btnLogin
+2022-02-27 19:11:10,617  INFO [TestNG-tests-1] Log:20 - Found Element By : By.name: btnLogin
+2022-02-27 19:11:10,618  INFO [TestNG-tests-1] Log:20 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (374e0ee481fde9906e25fbda956030e0)] -> name: btnLogin]
+2022-02-27 19:11:13,194  INFO [TestNG-tests-2] Log:20 - Navigated to:'http://demo.guru99.com/v4/'
+2022-02-27 19:11:13,207  INFO [TestNG-tests-2] Log:11 - =====================================createNewCustomerTest TEST START=========================================
+2022-02-27 19:11:13,213  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.name: uid
+2022-02-27 19:11:13,262  INFO [TestNG-tests-2] Log:20 - Found Element By : By.name: uid
+2022-02-27 19:11:13,499  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.name: password
+2022-02-27 19:11:13,541  INFO [TestNG-tests-2] Log:20 - Found Element By : By.name: password
+2022-02-27 19:11:13,744  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.name: btnLogin
+2022-02-27 19:11:13,785  INFO [TestNG-tests-2] Log:20 - Found Element By : By.name: btnLogin
+2022-02-27 19:11:13,786  INFO [TestNG-tests-2] Log:20 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (fe5ed7346ba4ae7d4edb9b4080b35d88)] -> name: btnLogin]
+2022-02-27 19:11:17,143  INFO [TestNG-tests-1] Log:20 - Clicked On: [[ChromeDriver: chrome on WINDOWS (374e0ee481fde9906e25fbda956030e0)] -> name: btnLogin]
+2022-02-27 19:11:17,145  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //tr[@class='heading3']/td
+2022-02-27 19:11:17,384  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //tr[@class='heading3']/td
+2022-02-27 19:11:17,526  INFO [TestNG-tests-1] Log:15 - =====================================loginTest TEST END=========================================
+2022-02-27 19:11:18,700  INFO [TestNG-tests-2] Log:20 - Clicked On: [[ChromeDriver: chrome on WINDOWS (fe5ed7346ba4ae7d4edb9b4080b35d88)] -> name: btnLogin]
+2022-02-27 19:11:18,702  INFO [TestNG-tests-2] Log:20 - Login to the application is successful
+2022-02-27 19:11:18,702  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.xpath: //a[text()='New Customer']
+2022-02-27 19:11:18,828  INFO [TestNG-tests-2] Log:20 - Found Element By : By.xpath: //a[text()='New Customer']
+2022-02-27 19:11:18,828  INFO [TestNG-tests-2] Log:20 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (fe5ed7346ba4ae7d4edb9b4080b35d88)] -> xpath: //a[text()='New Customer']]
+2022-02-27 19:11:19,273  INFO [TestNG-tests-2] Log:20 - Clicked On: [[ChromeDriver: chrome on WINDOWS (fe5ed7346ba4ae7d4edb9b4080b35d88)] -> xpath: //a[text()='New Customer']]
+2022-02-27 19:11:19,274  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.xpath: /html/body/table/tbody/tr/td/table/tbody/tr[4]/td[2]/input
+2022-02-27 19:11:23,188  INFO [TestNG-tests-1] Log:20 - Browser Terminated
+2022-02-27 19:11:23,188  INFO [TestNG-tests-1] Log:20 - -----------------------------------------------
+2022-02-27 19:11:23,200 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2022-02-27 19:11:23,201 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-02-27 19:11:23,202 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-02-27 19:11:23,203 DEBUG [TestNG-tests-1] cache:45 - "spark/spark.spa.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl hasn't changed.
+2022-02-27 19:11:23,205 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2022-02-27 19:11:23,206 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-02-27 19:11:23,206 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-02-27 19:11:23,207 DEBUG [TestNG-tests-1] cache:45 - "commons/commons-variables.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl hasn't changed.
+2022-02-27 19:11:23,210 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2022-02-27 19:11:23,211 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-02-27 19:11:23,211 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-02-27 19:11:23,211 DEBUG [TestNG-tests-1] cache:45 - "commons/commons-macros.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl hasn't changed.
+2022-02-27 19:11:23,213 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2022-02-27 19:11:23,214 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-02-27 19:11:23,215 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-02-27 19:11:23,216 DEBUG [TestNG-tests-1] cache:45 - "spark/macros/attributes.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl hasn't changed.
+2022-02-27 19:11:23,217 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2022-02-27 19:11:23,218 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-02-27 19:11:23,219 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-02-27 19:11:23,220 DEBUG [TestNG-tests-1] cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl hasn't changed.
+2022-02-27 19:11:23,221 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2022-02-27 19:11:23,222 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-02-27 19:11:23,223 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-02-27 19:11:23,224 DEBUG [TestNG-tests-1] cache:45 - "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl hasn't changed.
+2022-02-27 19:11:23,225 DEBUG [TestNG-tests-1] cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:23,226 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2022-02-27 19:11:23,226 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2022-02-27 19:11:23,227 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2022-02-27 19:11:23,228 DEBUG [TestNG-tests-1] cache:45 - "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl hasn't changed.
+2022-02-27 19:11:23,230 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2022-02-27 19:11:23,233 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-02-27 19:11:23,234 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-02-27 19:11:23,234 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/head.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl hasn't changed.
+2022-02-27 19:11:23,236 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2022-02-27 19:11:23,237 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-02-27 19:11:23,239 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-02-27 19:11:23,241 DEBUG [TestNG-tests-1] cache:45 - "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl hasn't changed.
+2022-02-27 19:11:23,243 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2022-02-27 19:11:23,244 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-02-27 19:11:23,244 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-02-27 19:11:23,245 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/navbar.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl hasn't changed.
+2022-02-27 19:11:23,249 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2022-02-27 19:11:23,250 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-02-27 19:11:23,250 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-02-27 19:11:23,251 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl hasn't changed.
+2022-02-27 19:11:23,260 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2022-02-27 19:11:23,260 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-02-27 19:11:23,261 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-02-27 19:11:23,261 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/test.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl hasn't changed.
+2022-02-27 19:11:23,272 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2022-02-27 19:11:23,272 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2022-02-27 19:11:23,273 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2022-02-27 19:11:23,274 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl hasn't changed.
+2022-02-27 19:11:23,279 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:23,283 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:23,286 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:23,290 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:23,291 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2022-02-27 19:11:23,292 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2022-02-27 19:11:23,292 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2022-02-27 19:11:23,293 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/exception.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl hasn't changed.
+2022-02-27 19:11:23,294 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2022-02-27 19:11:23,295 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2022-02-27 19:11:23,295 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2022-02-27 19:11:23,297 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/category.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl hasn't changed.
+2022-02-27 19:11:23,300 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2022-02-27 19:11:23,301 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2022-02-27 19:11:23,302 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2022-02-27 19:11:23,303 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/device.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl hasn't changed.
+2022-02-27 19:11:23,304 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2022-02-27 19:11:23,305 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2022-02-27 19:11:23,306 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2022-02-27 19:11:23,307 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/author.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl hasn't changed.
+2022-02-27 19:11:23,309 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2022-02-27 19:11:23,310 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2022-02-27 19:11:23,311 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2022-02-27 19:11:23,311 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/log.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl hasn't changed.
+2022-02-27 19:11:23,314 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2022-02-27 19:11:23,316 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-02-27 19:11:23,317 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-02-27 19:11:23,318 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl hasn't changed.
+2022-02-27 19:11:23,327 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2022-02-27 19:11:23,328 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-02-27 19:11:23,329 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-02-27 19:11:23,330 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/scripts.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl hasn't changed.
+2022-02-27 19:11:23,332 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2022-02-27 19:11:23,333 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-02-27 19:11:23,334 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-02-27 19:11:23,335 DEBUG [TestNG-tests-1] cache:45 - "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl hasn't changed.
+2022-02-27 19:11:23,470  INFO [TestNG-tests-1] Log:20 - Total rows including header in EditCustomer sheet: 2
+2022-02-27 19:11:23,470  INFO [TestNG-tests-1] Log:20 - Total columns in EditCustomer sheet: 6
+2022-02-27 19:11:24,104  INFO [TestNG-tests-2] Log:20 - Found Element By : By.xpath: /html/body/table/tbody/tr/td/table/tbody/tr[4]/td[2]/input
+2022-02-27 19:11:24,333  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.xpath: //input[@id='dob']
+2022-02-27 19:11:25,771  INFO [TestNG-tests-2] Log:20 - Found Element By : By.xpath: //input[@id='dob']
+2022-02-27 19:11:25,851  INFO [TestNG-tests-1] Log:20 - Before navigating to: 'http://demo.guru99.com/v4/'
+2022-02-27 19:11:26,028  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.xpath: //*[@id='message3']/preceding-sibling::textarea
+2022-02-27 19:11:26,073  INFO [TestNG-tests-2] Log:20 - Found Element By : By.xpath: //*[@id='message3']/preceding-sibling::textarea
+2022-02-27 19:11:26,572  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.xpath: //input[@name='city']
+2022-02-27 19:11:26,618  INFO [TestNG-tests-2] Log:20 - Found Element By : By.xpath: //input[@name='city']
+2022-02-27 19:11:26,775  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.xpath: //*[@id='message5']/preceding-sibling::input
+2022-02-27 19:11:26,812  INFO [TestNG-tests-2] Log:20 - Found Element By : By.xpath: //*[@id='message5']/preceding-sibling::input
+2022-02-27 19:11:26,990  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.xpath: //input[@name='pinno']
+2022-02-27 19:11:27,030  INFO [TestNG-tests-2] Log:20 - Found Element By : By.xpath: //input[@name='pinno']
+2022-02-27 19:11:27,184  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.xpath: //input[@name='telephoneno']
+2022-02-27 19:11:27,230  INFO [TestNG-tests-2] Log:20 - Found Element By : By.xpath: //input[@name='telephoneno']
+2022-02-27 19:11:27,407  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.xpath: //input[@name='emailid']
+2022-02-27 19:11:27,450  INFO [TestNG-tests-2] Log:20 - Found Element By : By.xpath: //input[@name='emailid']
+2022-02-27 19:11:27,750  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.xpath: //input[@name='password']
+2022-02-27 19:11:27,787  INFO [TestNG-tests-2] Log:20 - Found Element By : By.xpath: //input[@name='password']
+2022-02-27 19:11:27,959  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.xpath: //input[@name='sub']
+2022-02-27 19:11:27,997  INFO [TestNG-tests-2] Log:20 - Found Element By : By.xpath: //input[@name='sub']
+2022-02-27 19:11:27,998  INFO [TestNG-tests-2] Log:20 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (fe5ed7346ba4ae7d4edb9b4080b35d88)] -> xpath: //input[@name='sub']]
+2022-02-27 19:11:28,617  INFO [TestNG-tests-2] Log:20 - Clicked On: [[ChromeDriver: chrome on WINDOWS (fe5ed7346ba4ae7d4edb9b4080b35d88)] -> xpath: //input[@name='sub']]
+2022-02-27 19:11:28,617  INFO [TestNG-tests-2] Log:20 - Trying to Find Element By : By.xpath: //p[@class="heading3"]
+2022-02-27 19:11:28,651  INFO [TestNG-tests-2] Log:20 - Exception Occured: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Email Address Already Exist !!}
+  (Session info: chrome=98.0.4758.102): Email Address Already Exist !!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GG1I7P6', ip: '192.168.29.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53357}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fe5ed7346ba4ae7d4edb9b4080b35d88
+*** Element info: {Using=xpath, value=//p[@class="heading3"]}
+2022-02-27 19:11:31,866  INFO [TestNG-tests-2] Log:20 - Browser Terminated
+2022-02-27 19:11:31,867  INFO [TestNG-tests-2] Log:20 - -----------------------------------------------
+2022-02-27 19:11:31,925 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2022-02-27 19:11:31,925 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-02-27 19:11:31,926 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-02-27 19:11:31,927 DEBUG [TestNG-tests-2] cache:45 - "spark/spark.spa.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl hasn't changed.
+2022-02-27 19:11:31,933 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2022-02-27 19:11:31,933 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-02-27 19:11:31,934 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-02-27 19:11:31,935 DEBUG [TestNG-tests-2] cache:45 - "commons/commons-variables.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl hasn't changed.
+2022-02-27 19:11:31,937 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2022-02-27 19:11:31,938 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-02-27 19:11:31,939 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-02-27 19:11:31,939 DEBUG [TestNG-tests-2] cache:45 - "commons/commons-macros.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl hasn't changed.
+2022-02-27 19:11:31,942 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2022-02-27 19:11:31,944 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-02-27 19:11:31,944 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-02-27 19:11:31,947 DEBUG [TestNG-tests-2] cache:45 - "spark/macros/attributes.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl hasn't changed.
+2022-02-27 19:11:31,949 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2022-02-27 19:11:31,950 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-02-27 19:11:31,951 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-02-27 19:11:31,952 DEBUG [TestNG-tests-2] cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl hasn't changed.
+2022-02-27 19:11:31,953 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2022-02-27 19:11:31,954 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-02-27 19:11:31,954 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-02-27 19:11:31,955 DEBUG [TestNG-tests-2] cache:45 - "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl hasn't changed.
+2022-02-27 19:11:31,956 DEBUG [TestNG-tests-2] cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:31,957 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2022-02-27 19:11:31,957 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2022-02-27 19:11:31,958 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2022-02-27 19:11:31,958 DEBUG [TestNG-tests-2] cache:45 - "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl hasn't changed.
+2022-02-27 19:11:31,960 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2022-02-27 19:11:31,961 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-02-27 19:11:31,961 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-02-27 19:11:31,962 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/head.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl hasn't changed.
+2022-02-27 19:11:31,965 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2022-02-27 19:11:31,965 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-02-27 19:11:31,966 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-02-27 19:11:31,967 DEBUG [TestNG-tests-2] cache:45 - "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl hasn't changed.
+2022-02-27 19:11:31,968 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2022-02-27 19:11:31,968 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-02-27 19:11:31,969 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-02-27 19:11:31,970 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/navbar.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl hasn't changed.
+2022-02-27 19:11:31,971 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2022-02-27 19:11:31,972 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-02-27 19:11:31,972 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-02-27 19:11:31,973 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl hasn't changed.
+2022-02-27 19:11:31,977 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2022-02-27 19:11:31,978 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-02-27 19:11:31,979 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-02-27 19:11:31,979 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/test.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl hasn't changed.
+2022-02-27 19:11:31,986 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2022-02-27 19:11:31,986 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2022-02-27 19:11:31,987 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2022-02-27 19:11:31,988 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl hasn't changed.
+2022-02-27 19:11:31,990 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:31,992 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:31,994 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:31,998 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:32,006 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2022-02-27 19:11:32,012 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2022-02-27 19:11:32,014 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2022-02-27 19:11:32,015 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/exception.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl hasn't changed.
+2022-02-27 19:11:32,017 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2022-02-27 19:11:32,017 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2022-02-27 19:11:32,018 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2022-02-27 19:11:32,019 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/category.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl hasn't changed.
+2022-02-27 19:11:32,022 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2022-02-27 19:11:32,023 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2022-02-27 19:11:32,023 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2022-02-27 19:11:32,024 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/device.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl hasn't changed.
+2022-02-27 19:11:32,026 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2022-02-27 19:11:32,027 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2022-02-27 19:11:32,027 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2022-02-27 19:11:32,028 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/author.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl hasn't changed.
+2022-02-27 19:11:32,029 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2022-02-27 19:11:32,031 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2022-02-27 19:11:32,032 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2022-02-27 19:11:32,032 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/log.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl hasn't changed.
+2022-02-27 19:11:32,034 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2022-02-27 19:11:32,035 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-02-27 19:11:32,035 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-02-27 19:11:32,036 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl hasn't changed.
+2022-02-27 19:11:32,041 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2022-02-27 19:11:32,042 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-02-27 19:11:32,043 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-02-27 19:11:32,043 DEBUG [TestNG-tests-2] cache:45 - "spark/partials/scripts.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl hasn't changed.
+2022-02-27 19:11:32,045 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2022-02-27 19:11:32,045 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-02-27 19:11:32,046 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-02-27 19:11:32,050 DEBUG [TestNG-tests-2] cache:45 - "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl hasn't changed.
+2022-02-27 19:11:33,142  INFO [TestNG-tests-1] Log:20 - Navigated to:'http://demo.guru99.com/v4/'
+2022-02-27 19:11:33,153  INFO [TestNG-tests-1] Log:11 - =====================================editCustomerDetailTest TEST START=========================================
+2022-02-27 19:11:33,153  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.name: uid
+2022-02-27 19:11:33,199  INFO [TestNG-tests-1] Log:20 - Found Element By : By.name: uid
+2022-02-27 19:11:33,382  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.name: password
+2022-02-27 19:11:33,426  INFO [TestNG-tests-1] Log:20 - Found Element By : By.name: password
+2022-02-27 19:11:33,588  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.name: btnLogin
+2022-02-27 19:11:33,622  INFO [TestNG-tests-1] Log:20 - Found Element By : By.name: btnLogin
+2022-02-27 19:11:33,622  INFO [TestNG-tests-1] Log:20 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (49337e7234249fe1e803490db252bd9c)] -> name: btnLogin]
+2022-02-27 19:11:37,267  INFO [TestNG-tests-1] Log:20 - Clicked On: [[ChromeDriver: chrome on WINDOWS (49337e7234249fe1e803490db252bd9c)] -> name: btnLogin]
+2022-02-27 19:11:37,269  INFO [TestNG-tests-1] Log:20 - Login to the application is successful
+2022-02-27 19:11:37,270  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //a[contains(text(),'Edit Customer')]
+2022-02-27 19:11:37,341  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //a[contains(text(),'Edit Customer')]
+2022-02-27 19:11:37,342  INFO [TestNG-tests-1] Log:20 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (49337e7234249fe1e803490db252bd9c)] -> xpath: //a[contains(text(),'Edit Customer')]]
+2022-02-27 19:11:37,480  INFO [TestNG-tests-1] Log:20 - Clicked On: [[ChromeDriver: chrome on WINDOWS (49337e7234249fe1e803490db252bd9c)] -> xpath: //a[contains(text(),'Edit Customer')]]
+2022-02-27 19:11:37,483  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //input[@name='cusid']
+2022-02-27 19:11:42,372  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //input[@name='cusid']
+2022-02-27 19:11:42,490  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //input[@name='AccSubmit']
+2022-02-27 19:11:42,530  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //input[@name='AccSubmit']
+2022-02-27 19:11:42,531  INFO [TestNG-tests-1] Log:20 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (49337e7234249fe1e803490db252bd9c)] -> xpath: //input[@name='AccSubmit']]
+2022-02-27 19:11:45,766  INFO [TestNG-tests-1] Log:20 - Clicked On: [[ChromeDriver: chrome on WINDOWS (49337e7234249fe1e803490db252bd9c)] -> xpath: //input[@name='AccSubmit']]
+2022-02-27 19:11:45,767  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //*[@id='message3']/preceding-sibling::textarea
+2022-02-27 19:11:45,803  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //*[@id='message3']/preceding-sibling::textarea
+2022-02-27 19:11:45,866  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //input[@name='city']
+2022-02-27 19:11:45,899  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //input[@name='city']
+2022-02-27 19:11:46,409  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //*[@id='message5']/preceding-sibling::input
+2022-02-27 19:11:46,442  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //*[@id='message5']/preceding-sibling::input
+2022-02-27 19:11:46,530  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //input[@name='pinno']
+2022-02-27 19:11:46,567  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //input[@name='pinno']
+2022-02-27 19:11:46,667  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //input[@name='telephoneno']
+2022-02-27 19:11:46,706  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //input[@name='telephoneno']
+2022-02-27 19:11:46,810  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //input[@name='emailid']
+2022-02-27 19:11:46,850  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //input[@name='emailid']
+2022-02-27 19:11:46,936  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //*[@id='message3']/preceding-sibling::textarea
+2022-02-27 19:11:46,962  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //*[@id='message3']/preceding-sibling::textarea
+2022-02-27 19:11:47,165  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //input[@name='city']
+2022-02-27 19:11:47,184  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //input[@name='city']
+2022-02-27 19:11:47,352  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //*[@id='message5']/preceding-sibling::input
+2022-02-27 19:11:47,372  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //*[@id='message5']/preceding-sibling::input
+2022-02-27 19:11:47,564  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //input[@name='pinno']
+2022-02-27 19:11:47,601  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //input[@name='pinno']
+2022-02-27 19:11:47,726  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //input[@name='telephoneno']
+2022-02-27 19:11:47,749  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //input[@name='telephoneno']
+2022-02-27 19:11:47,886  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //input[@name='emailid']
+2022-02-27 19:11:47,917  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //input[@name='emailid']
+2022-02-27 19:11:48,112  INFO [TestNG-tests-1] Log:20 - Trying to Find Element By : By.xpath: //input[@name='sub']
+2022-02-27 19:11:48,154  INFO [TestNG-tests-1] Log:20 - Found Element By : By.xpath: //input[@name='sub']
+2022-02-27 19:11:48,154  INFO [TestNG-tests-1] Log:20 - Trying to Click On: [[ChromeDriver: chrome on WINDOWS (49337e7234249fe1e803490db252bd9c)] -> xpath: //input[@name='sub']]
+2022-02-27 19:11:49,308  INFO [TestNG-tests-1] Log:20 - Clicked On: [[ChromeDriver: chrome on WINDOWS (49337e7234249fe1e803490db252bd9c)] -> xpath: //input[@name='sub']]
+2022-02-27 19:11:49,321  INFO [TestNG-tests-1] Log:20 - Alert present with the message: No Changes made to Customer records
+2022-02-27 19:11:49,346  INFO [TestNG-tests-1] Log:15 - =====================================editCustomerDetailTest TEST END=========================================
+2022-02-27 19:11:52,494  INFO [TestNG-tests-1] Log:20 - Browser Terminated
+2022-02-27 19:11:52,494  INFO [TestNG-tests-1] Log:20 - -----------------------------------------------
+2022-02-27 19:11:52,501 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en_US.ftl"): Not found
+2022-02-27 19:11:52,502 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-02-27 19:11:52,502 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-02-27 19:11:52,503 DEBUG [TestNG-tests-1] cache:45 - "spark/spark.spa.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl hasn't changed.
+2022-02-27 19:11:52,504 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en_US.ftl"): Not found
+2022-02-27 19:11:52,505 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-02-27 19:11:52,505 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-02-27 19:11:52,505 DEBUG [TestNG-tests-1] cache:45 - "commons/commons-variables.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl hasn't changed.
+2022-02-27 19:11:52,507 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en_US.ftl"): Not found
+2022-02-27 19:11:52,508 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-02-27 19:11:52,508 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-02-27 19:11:52,508 DEBUG [TestNG-tests-1] cache:45 - "commons/commons-macros.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl hasn't changed.
+2022-02-27 19:11:52,509 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_US.ftl"): Not found
+2022-02-27 19:11:52,510 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-02-27 19:11:52,510 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-02-27 19:11:52,511 DEBUG [TestNG-tests-1] cache:45 - "spark/macros/attributes.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl hasn't changed.
+2022-02-27 19:11:52,512 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en_US.ftl"): Not found
+2022-02-27 19:11:52,512 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-02-27 19:11:52,513 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-02-27 19:11:52,513 DEBUG [TestNG-tests-1] cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl hasn't changed.
+2022-02-27 19:11:52,514 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_US.ftl"): Not found
+2022-02-27 19:11:52,514 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-02-27 19:11:52,515 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-02-27 19:11:52,515 DEBUG [TestNG-tests-1] cache:45 - "spark/macros/recurse_nodes.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl hasn't changed.
+2022-02-27 19:11:52,516 DEBUG [TestNG-tests-1] cache:45 - "spark/macros/log.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:52,516 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_US.ftl"): Not found
+2022-02-27 19:11:52,517 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+2022-02-27 19:11:52,517 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+2022-02-27 19:11:52,518 DEBUG [TestNG-tests-1] cache:45 - "spark/macros/attr-common.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl hasn't changed.
+2022-02-27 19:11:52,519 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en_US.ftl"): Not found
+2022-02-27 19:11:52,519 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-02-27 19:11:52,520 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-02-27 19:11:52,520 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/head.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl hasn't changed.
+2022-02-27 19:11:52,521 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_US.ftl"): Not found
+2022-02-27 19:11:52,521 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-02-27 19:11:52,522 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-02-27 19:11:52,522 DEBUG [TestNG-tests-1] cache:45 - "commons/commons-inject-css.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl hasn't changed.
+2022-02-27 19:11:52,523 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_US.ftl"): Not found
+2022-02-27 19:11:52,523 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-02-27 19:11:52,524 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-02-27 19:11:52,524 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/navbar.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl hasn't changed.
+2022-02-27 19:11:52,525 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_US.ftl"): Not found
+2022-02-27 19:11:52,526 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-02-27 19:11:52,527 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-02-27 19:11:52,527 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/sidenav.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl hasn't changed.
+2022-02-27 19:11:52,530 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en_US.ftl"): Not found
+2022-02-27 19:11:52,531 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-02-27 19:11:52,532 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-02-27 19:11:52,532 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/test.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl hasn't changed.
+2022-02-27 19:11:52,535 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_US.ftl"): Not found
+2022-02-27 19:11:52,536 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2022-02-27 19:11:52,537 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2022-02-27 19:11:52,537 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl hasn't changed.
+2022-02-27 19:11:52,540 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:52,546 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:52,549 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:52,552 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:52,554 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/standard-content.ftl"("en_US", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-02-27 19:11:52,556 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en_US.ftl"): Not found
+2022-02-27 19:11:52,557 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+2022-02-27 19:11:52,558 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+2022-02-27 19:11:52,558 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/exception.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl hasn't changed.
+2022-02-27 19:11:52,560 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en_US.ftl"): Not found
+2022-02-27 19:11:52,561 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+2022-02-27 19:11:52,563 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+2022-02-27 19:11:52,563 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/category.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl hasn't changed.
+2022-02-27 19:11:52,564 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en_US.ftl"): Not found
+2022-02-27 19:11:52,565 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+2022-02-27 19:11:52,566 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+2022-02-27 19:11:52,566 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/device.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl hasn't changed.
+2022-02-27 19:11:52,567 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en_US.ftl"): Not found
+2022-02-27 19:11:52,568 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+2022-02-27 19:11:52,570 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+2022-02-27 19:11:52,570 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/author.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl hasn't changed.
+2022-02-27 19:11:52,571 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en_US.ftl"): Not found
+2022-02-27 19:11:52,572 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+2022-02-27 19:11:52,572 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+2022-02-27 19:11:52,573 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/log.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl hasn't changed.
+2022-02-27 19:11:52,574 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_US.ftl"): Not found
+2022-02-27 19:11:52,575 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-02-27 19:11:52,575 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-02-27 19:11:52,576 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/dashboard.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl hasn't changed.
+2022-02-27 19:11:52,582 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_US.ftl"): Not found
+2022-02-27 19:11:52,583 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-02-27 19:11:52,583 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-02-27 19:11:52,584 DEBUG [TestNG-tests-1] cache:45 - "spark/partials/scripts.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl hasn't changed.
+2022-02-27 19:11:52,585 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_US.ftl"): Not found
+2022-02-27 19:11:52,586 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-02-27 19:11:52,587 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-02-27 19:11:52,588 DEBUG [TestNG-tests-1] cache:45 - "commons/commons-inject-js.ftl"("en_US", UTF-8, parsed): using cached since jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl hasn't changed.

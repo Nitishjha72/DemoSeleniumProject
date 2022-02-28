@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="5" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-27T19:10:23 IST" name="Suite" finished-at="2022-02-27T19:11:52 IST" duration-ms="89476">
+    <groups>
+    </groups>
+    <test started-at="2022-02-27T19:10:23 IST" name="HomePageTest" finished-at="2022-02-27T19:10:58 IST" duration-ms="35414">
+      <class name="com.qa.sel.testCases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.sel.testCases.HomePageTest@59d2400d]" started-at="2022-02-27T19:10:23 IST" name="setup" finished-at="2022-02-27T19:10:34 IST" duration-ms="11851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAddNewCustomerNavigationTest()[pri:0, instance:com.qa.sel.testCases.HomePageTest@59d2400d]" started-at="2022-02-27T19:10:34 IST" name="testAddNewCustomerNavigationTest" finished-at="2022-02-27T19:10:56 IST" duration-ms="21574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddNewCustomerNavigationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.sel.testCases.HomePageTest@59d2400d]" started-at="2022-02-27T19:10:57 IST" name="tearDown" finished-at="2022-02-27T19:10:58 IST" duration-ms="1238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.sel.testCases.HomePageTest -->
+    </test> <!-- HomePageTest -->
+    <test started-at="2022-02-27T19:10:23 IST" name="LoginPageTest" finished-at="2022-02-27T19:11:23 IST" duration-ms="60170">
+      <class name="com.qa.sel.testCases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.sel.testCases.LoginPageTest@2fc6f97f]" started-at="2022-02-27T19:10:23 IST" name="setup" finished-at="2022-02-27T19:10:35 IST" duration-ms="11951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bankLogoTest()[pri:0, instance:com.qa.sel.testCases.LoginPageTest@2fc6f97f]" started-at="2022-02-27T19:10:35 IST" name="bankLogoTest" finished-at="2022-02-27T19:10:35 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bankLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.sel.testCases.LoginPageTest@2fc6f97f]" started-at="2022-02-27T19:10:35 IST" name="tearDown" finished-at="2022-02-27T19:10:38 IST" duration-ms="2311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.sel.testCases.LoginPageTest@2fc6f97f]" started-at="2022-02-27T19:10:38 IST" name="setup" finished-at="2022-02-27T19:10:57 IST" duration-ms="19475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.qa.sel.testCases.LoginPageTest@2fc6f97f]" started-at="2022-02-27T19:10:57 IST" name="loginPageTitleTest" finished-at="2022-02-27T19:10:57 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.sel.testCases.LoginPageTest@2fc6f97f]" started-at="2022-02-27T19:10:57 IST" name="tearDown" finished-at="2022-02-27T19:10:59 IST" duration-ms="1345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.sel.testCases.LoginPageTest@2fc6f97f]" started-at="2022-02-27T19:10:59 IST" name="setup" finished-at="2022-02-27T19:11:09 IST" duration-ms="10271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.qa.sel.testCases.LoginPageTest@2fc6f97f]" started-at="2022-02-27T19:11:09 IST" name="loginTest" finished-at="2022-02-27T19:11:17 IST" duration-ms="7926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.sel.testCases.LoginPageTest@2fc6f97f]" started-at="2022-02-27T19:11:18 IST" name="tearDown" finished-at="2022-02-27T19:11:23 IST" duration-ms="4296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.sel.testCases.LoginPageTest -->
+    </test> <!-- LoginPageTest -->
+    <test started-at="2022-02-27T19:11:00 IST" name="AddCustomerPageTest" finished-at="2022-02-27T19:11:31 IST" duration-ms="31862">
+      <class name="com.qa.sel.testCases.AddCustomerPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.sel.testCases.AddCustomerPageTest@447a020]" started-at="2022-02-27T19:11:02 IST" name="setup" finished-at="2022-02-27T19:11:13 IST" duration-ms="10755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createNewCustomerTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.sel.testCases.AddCustomerPageTest@447a020]" started-at="2022-02-27T19:11:13 IST" name="createNewCustomerTest" data-provider="addCustomer" finished-at="2022-02-27T19:11:28 IST" duration-ms="15455" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[NitishTestingHybrid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11232003]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Nitish world]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[KARNATAKA]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[124596]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[7412589632]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[nitishtest91021@gmail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.UnhandledAlertException">
+            <message>
+              <![CDATA[unexpected alert open: {Alert text : Email Address Already Exist !!}
+  (Session info: chrome=98.0.4758.102): Email Address Already Exist !!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GG1I7P6', ip: '192.168.29.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53357}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fe5ed7346ba4ae7d4edb9b4080b35d88
+*** Element info: {Using=xpath, value=//p[@class="heading3"]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Email Address Already Exist !!}
+  (Session info: chrome=98.0.4758.102): Email Address Already Exist !!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-GG1I7P6', ip: '192.168.29.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53357}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fe5ed7346ba4ae7d4edb9b4080b35d88
+*** Element info: {Using=xpath, value=//p[@class="heading3"]}
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at jdk.internal.reflect.GeneratedMethodAccessor24.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+at com.sun.proxy.$Proxy16.findElement(Unknown Source)
+at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy14.isDisplayed(Unknown Source)
+at com.qa.sel.pages.AddCustomerPage.checkIsCustomerCreated(AddCustomerPage.java:86)
+at com.qa.sel.testCases.AddCustomerPageTest.createNewCustomerTest(AddCustomerPageTest.java:40)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+at java.base/java.lang.Thread.run(Thread.java:834)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.UnhandledAlertException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewCustomerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.sel.testCases.AddCustomerPageTest@447a020]" started-at="2022-02-27T19:11:30 IST" name="tearDown" finished-at="2022-02-27T19:11:31 IST" duration-ms="1224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.sel.testCases.AddCustomerPageTest -->
+    </test> <!-- AddCustomerPageTest -->
+    <test started-at="2022-02-27T19:11:23 IST" name="EditCustomerPageTest" finished-at="2022-02-27T19:11:52 IST" duration-ms="29157">
+      <class name="com.qa.sel.testCases.EditCustomerDetailsTest">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:com.qa.sel.testCases.EditCustomerDetailsTest@4a194c39]" started-at="2022-02-27T19:10:22 IST" name="loadConfig" finished-at="2022-02-27T19:10:23 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.sel.testCases.EditCustomerDetailsTest@4a194c39]" started-at="2022-02-27T19:11:23 IST" name="setup" finished-at="2022-02-27T19:11:33 IST" duration-ms="9672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="editCustomerDetailTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.sel.testCases.EditCustomerDetailsTest@4a194c39]" started-at="2022-02-27T19:11:33 IST" name="editCustomerDetailTest" data-provider="editCustomerDetails" finished-at="2022-02-27T19:11:49 IST" duration-ms="16195" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[New Address Entered]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Updated city]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Updated State]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[125478]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[3214569871]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[updatedemail@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editCustomerDetailTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.sel.testCases.EditCustomerDetailsTest@4a194c39]" started-at="2022-02-27T19:11:51 IST" name="tearDown" finished-at="2022-02-27T19:11:52 IST" duration-ms="961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.sel.testCases.EditCustomerDetailsTest -->
+    </test> <!-- EditCustomerPageTest -->
+  </suite> <!-- Suite -->
+</testng-results>
